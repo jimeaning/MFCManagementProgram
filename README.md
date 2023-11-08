@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # MFCManagementProgramProject
 
 RFID 모듈을 사용한 MFC 방식의 음반 대여 프로그램
